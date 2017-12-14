@@ -1,0 +1,2 @@
+# Tutoring
+This tutoring program came from a homework assignment to create (hard-code) tutors and one student, and assign the student to tutors for the function of paying a tutor, or adding more credit to their account if they cannot afford a tutor. The tutor cannot make changes to the credits they have earned, the tutor can only view the credits. The method of a student paying a tutor calls a method of the tutor, that immediately pays the tutor in the same step that charges the student.
